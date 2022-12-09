@@ -188,3 +188,115 @@ ul{
     background-color: #366cf9;
     color: white;
 }
+
+
+/* FOOTER */
+
+
+footer {
+    font-family: 'Poppins';
+}
+
+
+.footer_all {
+    background-color: #101010;
+}
+
+.footer {
+    text-align: center;
+    height: 105vh;
+    padding-top: 250px;
+}
+
+.footer_image_content {
+    line-height: 10px;
+}
+
+.footer_image_content img {
+    width: 13%;
+    height: 151px;
+    margin-bottom: 50px;
+}
+
+.footer_image_content h1 {
+    font-size: 70px;
+    color: #FFFFFF;
+}
+
+.footer_image_content h5 {
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+.footer_image_content button {
+    width: 420px;
+    height: 96px;
+    background-color: #326CF9;
+    border-radius: 15px;
+    border: 0;
+    font-size: 22px;
+    color: white;
+    cursor: pointer;
+}
+
+.footer_image_content p {
+    color: white;
+    font-size: 35px;
+}
+
+.footer_image_content span {
+    color: #707070;
+    font-size: 35px;
+}
+
+.footer_logo_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 220px;
+}
+
+.footer_logo p {
+    font-size: 27px;
+    color:   #707070;
+    margin-bottom: 30px;
+    margin: 13px 0;
+    padding-right: 25px;
+}
+
+.fot_cont {
+    display: flex;
+}
+
+.fot_cont {
+    display: flex;
+    align-items: center;
+    gap: 23px;
+}
+
+.fot_cont img {
+    width: 20%;
+    height: 50px;
+}
+
+.fot_cont h5 {
+    color: white;
+    font-size: 40px;
+    margin: 0;
+}
+
+.footer_content ul {
+    display: flex;
+    align-items: center;
+    gap: 49px;
+}
+
+.footer_content ul li {
+    list-style: none;
+    color: #707070;
+    font-size: 25px;
+}
+
+.footer_content ul span {
+    color: #326DF9;
+}
