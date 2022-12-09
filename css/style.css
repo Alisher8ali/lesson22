@@ -52,3 +52,82 @@ ul{
     align-items: center;
     display: flex;
 }
+
+
+ /* MAIN */
+
+
+ main {
+    font-family: 'Poppins', sans-serif;
+    background-color: #101010;
+    height: 100vh;
+ }
+
+ .banner {
+    text-align: center;
+    padding-top: 140px;
+ }
+
+ .banner_lose {
+    line-height: 30px;
+ }
+
+ .banner_lose h2 {
+    font-size: 90px;
+    color: white;
+    margin: 0;
+ }
+
+ .banner_lose h1 {
+    font-size: 92px;
+    color: aquamarine;
+ }
+
+ .banner_content {
+    margin-top: 136px;
+ }
+
+ .banner_content h5 {
+    color: #ffffff;
+    font-size: 30px;
+    padding: 0 435px;
+ }
+
+ .banner_content p {
+    color: white;
+    font-size: 25px;
+ }
+
+ .banner_content span {
+    color: #707070;
+ }
+
+ .banner_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+ }
+
+ .banner_button_one button {
+    width: 313px;
+    height: 77px;
+    color: white;
+    background-color: #366cf9;
+    border: 0;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+ }
+
+ .banner_button_two button {
+    width: 313px;
+    height: 77px;
+    color: #707070;
+    background-color: transparent;
+    border: 1px solid #707070;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+ }
+
